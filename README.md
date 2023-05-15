@@ -23,13 +23,13 @@ To run the automated tests, you need to have the following software installed:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/illanacohen/automated-testing.git
+   git clone https://github.com/illanacohen/online-shop-testing.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd automated-testing
+   cd online-shop-testing
    ```
 
 3. Install the required dependencies using pip:
