@@ -1,7 +1,7 @@
 
 class Elements:
     # Braintree
-    BRAINTREE_TRANSACTION_BUTTON = 'payment-button-TRANSACTION-braintree'
+    BRAINTREE_TRANSACTION_BUTTON = 'payment-button-transaction-braintree'
     BRAINTREE_SUBSCRIPTION_BUTTON = 'payment-button-subscription-with-trial-stripe'
     BRAINTREE_TRANSACTION_FORM = 'braintree-sheet__header'
     BRAINTREE_NUMBER_FRAME = 'braintree-hosted-field-number'
@@ -10,7 +10,7 @@ class Elements:
     BRAINTREE_EXP_DATE_FIELD = 'expiration'
 
     # Stripe
-    STRIPE_TRANSACTION_BUTTON = 'payment-button-TRANSACTION-stripe'
+    STRIPE_TRANSACTION_BUTTON = 'payment-button-transaction-stripe'
     STRIPE_SUBSCRIPTION_TRIAL_BUTTON = 'payment-button-subscription-with-trial-stripe'
     STRIPE_SUBSCRIPTION_BUTTON = 'payment-button-subscription-stripe'
     STRIPE_NUMBER_FIELD = 'Field-numberInput'
